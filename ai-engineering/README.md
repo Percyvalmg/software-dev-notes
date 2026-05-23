@@ -1,0 +1,7 @@
+# AI Engineering
+
+Notes on AI tools, agents, workflows, and AI-native engineering practices.
+
+| Note | Description |
+|------|-------------|
+| [AI-Era Developer Skills](./ai-era-developer-skills.md) | Google I/O 2026 — T-shaped engineer model, 5 patterns of high-performing AI-native devs, practical steps for agent orchestration |
